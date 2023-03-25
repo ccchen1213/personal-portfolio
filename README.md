@@ -1,6 +1,9 @@
 ## 📍 Personal portfolio in React
-Fork from https://github.com/judygab/web-dev-projects
-Study from Youtube: https://www.youtube.com/@webdecoded
+Fork from https://github.com/judygab/web-dev-projects 
+
+Study from Youtube: https://www.youtube.com/@webdecoded 
+
+
 
 ## 📝 Getting Started with Create React App
 
